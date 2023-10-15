@@ -1,0 +1,23 @@
+{
+  "email": "",
+  "password": "",
+
+  "min_attenders": 5,
+  "attenders_threshold": 0.7,
+
+  "meeting_check_interval": 30,
+
+  "headless": false,
+  "mute_audio": false,
+
+  "driver_path": "./driver/chromedriver/chromedriver.exe",
+  "discord_webhook_url": "",
+
+  "white_list": [
+
+  ],
+
+  "black_list": [
+
+  ]
+}
